@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "99fe6de9e32ff63b",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a7413eb417c57d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e0d5fbc48fd72d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "53ee563262ca2e65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13b27bc61348b7d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e152a25cd939531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bbbde6f8f3a61c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b6f4246fd2c65c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13dfba0aa6604be5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44c812835e8ffed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2e5f1faec155e15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "676299816a5d1296",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b11d81c75f655603",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0238598cc4d1d3bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6cbde3e0e5b92de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "8e0d5fbc48fd72d1",
+  "lastOpenFiles": [
+    "Chapter3/recipe_yaml.md",
+    "Chapter3/opencc.md",
+    "Chapter3/dict_yaml.md",
+    "img/chinese_rime_input_source.png",
+    "img/ibus-setup.png",
+    "img/setting_keyboard.png",
+    "img/switch_ime.png",
+    "img/weasel_select_schema.png",
+    "Chapter1/05 typing.md",
+    "Chapter1/04 deploy.md",
+    "Chapter2/file_format.md",
+    "Chapter2/default_yaml.md",
+    "Chapter1/01 installation.md",
+    "Chapter1/01-1 ibus-rime.md",
+    "Chapter1/02 important folder.md",
+    "Chapter1/03 install schema.md",
+    "img/out.png",
+    "img/螢幕擷取畫面 2024-08-06 112143.png",
+    "README.md",
+    "Chapter3/schema_yaml.md",
+    "Chapter3",
+    "Chapter2",
+    "Chapter1",
+    "img",
+    "新增資料夾",
+    "Pasted image 20240708171525.png",
+    "未命名.canvas",
+    "aaa.md",
+    "Intro",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
