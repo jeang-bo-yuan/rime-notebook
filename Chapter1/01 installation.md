@@ -19,5 +19,7 @@
 
 如果要安裝Trime，可以從[F-droid](https://f-droid.org/zh_Hant/)上下載。
 > [!Note]
-> 因為Trime沒有自帶`default.yaml`，所以需要自行新增。
-> 如果你不想自己寫`default.yaml`，可以從[這裡](https://github.com/rime/rime-prelude)下載全部的YAML檔，然後複製到[用戶資料夾](02%20important%20folder.md#用戶資料夾)。
+> 因為Trime沒有自帶`default.yaml`和`essay.txt`，所以需要自行下載。
+> 你可以去github上下載[prelude](https://github.com/rime/rime-prelude)和[essay](https://github.com/rime/rime-essay)這兩個package，然後複製到[用戶資料夾](02%20important%20folder.md#用戶資料夾)。
+> 
+> 如果你有用Termux的話，也可以直接用[東風破](03%20install%20schema.md#方法2%20使用東風破)安裝：`rime-install prelude essay`

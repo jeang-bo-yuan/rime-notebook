@@ -31,7 +31,7 @@
 檔案名稱 | 用途
 -----|-----
 📑<br>default.yaml | 全域設定
-📑<br>default.custom.yaml | default.yaml的[補靪](file_format.md#補靪文件)
+📑<br>default.custom.yaml | default.yaml的[補靪](../Chapter2/01%20file_format.md#補靪文件)
 📑<br>×××.schema.yaml | ×××輸入法的定義
 📑<br>×××.dict.yaml | ×××字典，內含×××輸入法的字碼表
 

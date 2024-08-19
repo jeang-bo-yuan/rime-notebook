@@ -7,7 +7,7 @@
 
 ## 使用文字編輯器
 
-雖然說是要修改`default.yaml`，但一般會比較推薦將要改的內容寫在`default.custom.yaml`中。RIME把`default.custom.yaml`稱作`default.yaml`的[補靪](file_format.md#補靪文件)，正如其名，補靪包含著對原文件的修改，在部署時補靪會被合併進原文件中。
+雖然說是要修改`default.yaml`，但一般會比較推薦將要改的內容寫在`default.custom.yaml`中。RIME把`default.custom.yaml`稱作`default.yaml`的[補靪](../Chapter2/01%20file_format.md#補靪文件)，正如其名，補靪包含著對原文件的修改，在部署時補靪會被合併進原文件中。
 
 在用戶資料夾下新增`default.custom.yaml`，然後打入下列文字。
 
