@@ -12,8 +12,9 @@ Created Date: 2024/06/28
 
 ## 貳、客製化入門
 
-- [檔案格式](file_format.md)
-- [default.yaml](default_yaml.md)
+1. [檔案格式](Chapter2/01%20file_format.md)
+2. [簡介YAML](Chapter2/02%20yaml.md)
+3. [default.yaml](03%20default_yaml.md)
 
 ## 參、實作輸入方案
 
