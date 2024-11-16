@@ -29,3 +29,7 @@ install_files:
   - 要安裝的檔案1
   - 要安裝的檔案2
 ```
+
+# 範例
+
+我在行列輸入方案寫的[recipe.yaml](https://github.com/jeang-bo-yuan/rime-array-extended/blob/master/recipe.yaml)。

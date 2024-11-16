@@ -18,11 +18,11 @@ Created Date: 2024/06/28
 
 ## 參、實作輸入方案
 
-- [字典 (.dict.yaml)](dict_yaml.md)
-- [方案定義 (.schema.yaml)](schema_yaml.md)
+1. [字典 (.dict.yaml)](Chapter3/01%20dict_yaml.md)
+2. [方案定義 (.schema.yaml)](Chapter3/02%20schema_yaml.md)
 	- engine
-- [東風破 配方](recipe_yaml.md)
-- [OpenCC 文字轉換](opencc.md)
+3. [東風破 配方](Chapter3/03%20recipe_yaml.md)
+4. [OpenCC 文字轉換](Chapter3/04%20opencc.md)
 
 ---
 
@@ -37,7 +37,5 @@ Created Date: 2024/06/28
 
 # Todo
 
-- 瞭解東風破
-- default.yaml
 - schema介紹
 

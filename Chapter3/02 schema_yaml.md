@@ -38,6 +38,7 @@ switches:
     states: [ 常用, 增廣 ]
 
   # processors/punctuator 使用的開關
+  # 是否啟用 punctuator
   - name: ascii_punct
     states: [ 。，, ．， ]
 ```
