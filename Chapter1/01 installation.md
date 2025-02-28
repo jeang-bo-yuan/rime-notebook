@@ -23,3 +23,6 @@
 > 你可以去github上下載[prelude](https://github.com/rime/rime-prelude)和[essay](https://github.com/rime/rime-essay)這兩個package，然後複製到[用戶資料夾](02%20important%20folder.md#用戶資料夾)。
 > 
 > 如果你有用Termux的話，也可以直接用[東風破](03%20install%20schema.md#方法2%20使用東風破)安裝：`rime-install prelude essay`
+
+> [!Note]
+> Trime 3.3.0 版後，有自帶 `default.yaml`。
